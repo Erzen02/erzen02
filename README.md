@@ -18,4 +18,4 @@
 
 ## 	:mailbox: Contact
 
-![Twitter](https://img.shields.io/twitter/follow/_erzen_?style=social)
+[![Twitter](https://img.shields.io/twitter/follow/_erzen_?style=social)](https://twitter.com/_erzen_)
